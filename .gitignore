@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 data/
 *.pth
+Caltech101
+.idea
